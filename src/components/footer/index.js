@@ -6,16 +6,16 @@ const Index = () => {
       <div className="container flex justify-between border-t-2 border-primary py-8  items-center flex-wrap flex-col gap-4 sm:flex-row-reverse">
         <div className="w-full text-center">
           <span className="block text-xs">Produced by:</span>
-          <span className="block">Moon's Collection Company</span>
+          <span className="block"><a href="https://www.cosmosconquest.com/">Moon's Collection Company</a></span>
         </div>
         <div className="flex items-center gap-4" style={{ color: "#ffc701" }}>
           <span>
-            <a href="/">
+            <a href="https://twitter.com/CosmosConquest?s=09">
               <i className="fab fa-twitter"></i>
             </a>
           </span>
           <span>
-            <a href="/">
+            <a href="https://discord.gg/aBn8yD9MZT">
               <i className="fab fa-discord"></i>
             </a>
           </span>
