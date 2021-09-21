@@ -74,7 +74,7 @@ const Index = ({ account, mint, totalSupply, displayPrice, loadWeb3 }) => {
             <Slider min={0} max={20} defaultValue={1} handle={handle} />
             <p className="text-center text-xs mt-2">
               {account
-                ? `Mint ${value} Starfish(${(value * displayPrice).toFixed(
+                ? `Mint ${value} Nebula Conqueror (${(value * displayPrice).toFixed(
                     4
                   )} Ether)`
                 : "Connect Account"}
