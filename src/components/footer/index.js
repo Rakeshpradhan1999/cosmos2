@@ -21,7 +21,7 @@ const Index = () => {
           </span>
 
           <span>
-            <a href="/">
+            <a href="https://opensea.io/collection/nebula-conqueror">
               <img src={Opensea} alt="dribble" className="w-8" />
             </a>
           </span>
