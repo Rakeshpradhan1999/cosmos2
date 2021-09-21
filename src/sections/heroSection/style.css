@@ -1,0 +1,20 @@
+.rc-slider .rc-slider-rail {
+  background-color: white;
+  height: 6px;
+}
+.rc-slider .rc-slider-track {
+  background-color: #ffc901;
+  height: 6px;
+}
+.rc-slider .rc-slider-handle {
+  background-color: #ffc901;
+  border-color: #ffc901;
+  box-shadow: 0 4px 4px 0px rgba(0, 0, 0, 0.3);
+}
+
+.rc-slider-tooltip-inner {
+  background-color: #ffc901;
+}
+.rc-slider-tooltip-content .rc-slider-tooltip-arrow {
+  border-top-color: #ffc901;
+}
