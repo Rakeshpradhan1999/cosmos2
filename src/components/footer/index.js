@@ -27,7 +27,7 @@ const Index = () => {
           </span>
         </div>
         <div className="text-white  text-lg text-center sm:text-left mt-4  sm:mt-0">
-          <p className="">Smart Contract</p>
+          <p className=""><a href="https://etherscan.io/address/0x2253c88d95cd26827374ae396a3b8e23f8c5c2bb">Smart Contract</a></p>
         </div>
       </div>
     </footer>
