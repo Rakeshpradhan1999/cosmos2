@@ -69,7 +69,7 @@ const Index = ({ account, mint, totalSupply, displayPrice, loadWeb3 }) => {
 
           <div className="mt-14 max-w-md w-full mx-auto">
             <div className="flex justify-center text-xs mb-5">
-              <span>Total Nebula Conqueror Minted: {totalSupply} / 7777</span>
+              <span>Total Nebula Conqueror Minted: {totalSupply} / 10000 </span>
             </div>
             <Slider min={0} max={20} defaultValue={1} handle={handle} />
             <p className="text-center text-xs mt-2">
