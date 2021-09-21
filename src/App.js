@@ -209,7 +209,7 @@ function App() {
         open={nftMinted}
         onClose={setNftMinted}
         title="Mint Successful"
-        text="NFT minted successfully! It will be revealed in 24 hours"
+        text="NFT minted successfully! It will be available on OpenSea in few minutes"
       />
       <InformationModal
         open={nftMinting}
